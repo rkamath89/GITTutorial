@@ -1,3 +1,7 @@
 This is my 1st File RAHUL
 This is a new MAC WINDOWS
+<<<<<<< HEAD
 Third Line on Mac
+=======
+This line is added by Windows, when i add 3rd Line on MAC SHOULD Conflict
+>>>>>>> fa51b7f4d0f8ea32287bdd380660685ddc22d52b
