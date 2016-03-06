@@ -1,3 +1,4 @@
-DOG
 CAT
+DOG
+BAT
 RAT
